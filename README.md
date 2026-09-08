@@ -15,4 +15,4 @@ Caso: TechStore — control básico de inventario en PostgreSQL.
 
 Motor: PostgreSQL 15+ (Neon)
 
-E-portafolio completo: PENDIENTE
+E-portafolio completo: https://right-calendula-7e1.notion.site/E-Portafolio-Programaci-n-3d4a986c616680c0add0ea2c752fd33d?source=copy_link
